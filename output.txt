@@ -1,0 +1,41 @@
+BA 6
+None
+AHMEDABAD 10
+None
+None
+G 11
+G 5
+G 6
+D 22
+None
+G 7
+G1 9
+G 21
+G 2
+G 19
+B 1
+G 7
+C 3
+I 9
+None
+C 2
+G 7
+C 2
+H 2
+None
+G 19
+G 4
+AAZ 7
+G 2
+AAZ 21
+G 18
+F 6
+B 1
+B 4
+None
+A 3
+B 17
+C 6
+B 17
+C 6
+None
